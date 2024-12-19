@@ -21,7 +21,7 @@ import {
   ArrowUp,
 } from "lucide-react";
 import { HeroBanner } from "@/components/hero-banner";
-import { NewsSection } from "@/components/news-section";
+import { TabbedNewsSection } from "@/components/tabbed-news-section";
 import { FeaturedContent } from "@/components/featured-content";
 
 export default function UnifiedCareersPage() {
@@ -53,7 +53,13 @@ export default function UnifiedCareersPage() {
       <header className='sticky top-0 z-50 w-full border-b bg-white'>
         <div className='container flex h-16 items-center justify-between'>
           <div className='flex items-center gap-2'>
-            <Building2 className='h-6 w-6 text-[#4A4A4A]' />
+            <Image
+              src='./saizeriya_logo.svg'
+              alt='サイゼリヤのロゴ'
+              width={160}
+              height={40}
+              className='h-10 w-auto'
+            />
             <span className='text-lg font-bold text-[#4A4A4A]'>サイゼリヤ</span>
           </div>
           {isMobile ? (
@@ -107,7 +113,7 @@ export default function UnifiedCareersPage() {
 
       {/* Main Content */}
       <main className='flex-grow'>
-        <NewsSection />
+        <TabbedNewsSection />
         <FeaturedContent />
         <div className='container py-12'>
           <h1 className='text-4xl font-bold mb-4 text-[#4A4A4A]'>採用情報</h1>
