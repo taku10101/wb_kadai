@@ -109,15 +109,12 @@ export function SiteHeader() {
         <div className='absolute inset-0 flex items-center justify-center'>
           <div className='text-center text-white'>
             <Image
-              src='/img_1.png'
+              src='/img9.png'
               alt='Saizeriya'
               width={300}
               height={80}
               className='mx-auto mb-4'
             />
-            <p className='text-2xl font-medium'>
-              毎日の暮らしの豊かさを、食から。
-            </p>
           </div>
         </div>
       </div>

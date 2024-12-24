@@ -14,15 +14,12 @@ export function HeroBanner() {
       <div className='absolute inset-0 flex items-center justify-center'>
         <div className='text-center text-white'>
           <Image
-            src='/img.png'
+            src='/img9.png'
             alt='Saizeriya'
             width={1800}
             height={300}
             className='mx-auto mb-4'
           />
-          <p className='text-2xl font-medium'>
-            毎日の暮らしの豊かさを、食から。
-          </p>
         </div>
       </div>
     </div>
