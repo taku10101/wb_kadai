@@ -151,11 +151,6 @@ export default function UnifiedCareersPage() {
                   店舗運営から本社業務まで、幅広いポジションで募集しています。
                   あなたのスキルと経験を活かし、成長できる環境をご用意しています。
                 </p>
-                <div className='flex justify-end mt-auto'>
-                  <Button className='bg-[#A8E6CF] text-[#4A4A4A] hover:bg-[#DCEDC1]'>
-                    詳細を見る
-                  </Button>
-                </div>
               </CardContent>
             </Card>
 
@@ -185,11 +180,6 @@ export default function UnifiedCareersPage() {
                   店舗スタッフや工場スタッフなど、あなたのライフスタイルに合わせた働き方ができます。
                   未経験の方も歓迎です。
                 </p>
-                <div className='flex justify-end mt-auto'>
-                  <Button className='bg-[#A8E6CF] text-[#4A4A4A] hover:bg-[#DCEDC1]'>
-                    詳細を見る
-                  </Button>
-                </div>
               </CardContent>
             </Card>
 
@@ -219,11 +209,6 @@ export default function UnifiedCareersPage() {
                   学生の皆さんに、実際の業務を体験していただくプログラムをご用意しています。
                   食品業界でのキャリアに興味のある方、ぜひご参加ください。
                 </p>
-                <div className='flex justify-end mt-auto'>
-                  <Button className='bg-[#A8E6CF] text-[#4A4A4A] hover:bg-[#DCEDC1]'>
-                    詳細を見る
-                  </Button>
-                </div>
               </CardContent>
             </Card>
 
@@ -251,11 +236,6 @@ export default function UnifiedCareersPage() {
                   サイゼリヤでは、社員一人ひとりの成長を大切にしています。
                   研修プログラムやキャリアパスの提供など、あなたの成長をサポートします。
                 </p>
-                <div className='flex justify-end mt-auto'>
-                  <Button className='bg-[#A8E6CF] text-[#4A4A4A] hover:bg-[#DCEDC1]'>
-                    詳細を見る
-                  </Button>
-                </div>
               </CardContent>
             </Card>
           </div>
