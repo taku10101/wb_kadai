@@ -5,22 +5,22 @@ import { Card, CardContent } from "@/components/ui/card";
 const featuredItems = [
   {
     title: "サイゼリヤのこだわり",
-    image: "/placeholder.svg?height=200&width=400",
+    image: "/img15.png",
     href: "#",
   },
   {
     title: "サステナビリティ",
-    image: "/placeholder.svg?height=200&width=400",
+    image: "/img7.png",
     href: "#",
   },
   {
     title: "VIVA! Italia",
-    image: "/placeholder.svg?height=200&width=400",
+    image: "/img4.png",
     href: "#",
   },
   {
     title: "デジタルトランスフォーメーション",
-    image: "/placeholder.svg?height=200&width=400",
+    image: "/img16.png",
     href: "#",
   },
 ];

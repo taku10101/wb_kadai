@@ -141,7 +141,7 @@ export default function UnifiedCareersPage() {
               <CardContent className='p-6 flex flex-col h-full'>
                 <div className='mb-4 relative h-48 rounded-lg overflow-hidden'>
                   <Image
-                    src='/placeholder.svg?height=192&width=384'
+                    src='/img14.png'
                     alt='サイゼリヤの店舗で働くスタッフの様子'
                     layout='fill'
                     objectFit='cover'
@@ -175,7 +175,7 @@ export default function UnifiedCareersPage() {
               <CardContent className='p-6 flex flex-col h-full'>
                 <div className='mb-4 relative h-48 rounded-lg overflow-hidden'>
                   <Image
-                    src='/placeholder.svg?height=192&width=384'
+                    src='/img13.png'
                     alt='サイゼリヤのキッチンで調理するスタッフの様子'
                     layout='fill'
                     objectFit='cover'
@@ -209,7 +209,7 @@ export default function UnifiedCareersPage() {
               <CardContent className='p-6 flex flex-col h-full'>
                 <div className='mb-4 relative h-48 rounded-lg overflow-hidden'>
                   <Image
-                    src='/placeholder.svg?height=192&width=384'
+                    src='/img11.png'
                     alt='サイゼリヤのインターンシップに参加する学生たちの様子'
                     layout='fill'
                     objectFit='cover'
@@ -241,7 +241,7 @@ export default function UnifiedCareersPage() {
               <CardContent className='p-6 flex flex-col h-full'>
                 <div className='mb-4 relative h-48 rounded-lg overflow-hidden'>
                   <Image
-                    src='/placeholder.svg?height=192&width=384'
+                    src='/img8.png'
                     alt='サイゼリヤの研修プログラムに参加するスタッフたちの様子'
                     layout='fill'
                     objectFit='cover'

@@ -14,10 +14,10 @@ export function HeroBanner() {
       <div className='absolute inset-0 flex items-center justify-center'>
         <div className='text-center text-white'>
           <Image
-            src='/placeholder.svg?height=80&width=300'
+            src='/img.png'
             alt='Saizeriya'
-            width={300}
-            height={80}
+            width={1800}
+            height={300}
             className='mx-auto mb-4'
           />
           <p className='text-2xl font-medium'>

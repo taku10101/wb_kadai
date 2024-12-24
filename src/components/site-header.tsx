@@ -11,7 +11,7 @@ const navItems = [
   { title: "サイゼリヤのこだわり", href: "#" },
   { title: "お店を探す", href: "#" },
   { title: "会社情報", href: "#" },
-  { title: "採用情報", href: "#", current: true },
+  { title: "サイゼリヤの哲学", href: "#", current: true },
 ];
 
 export function SiteHeader() {
@@ -33,7 +33,7 @@ export function SiteHeader() {
         <div className='container flex h-16 items-center justify-between'>
           <Link href='/' className='flex items-center gap-2'>
             <Image
-              src='/placeholder.svg?height=40&width=160'
+              src='/img9.png'
               alt='サイゼリヤ'
               width={160}
               height={40}
@@ -109,7 +109,7 @@ export function SiteHeader() {
         <div className='absolute inset-0 flex items-center justify-center'>
           <div className='text-center text-white'>
             <Image
-              src='/placeholder.svg?height=80&width=300'
+              src='/img_1.png'
               alt='Saizeriya'
               width={300}
               height={80}
