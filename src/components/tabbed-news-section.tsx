@@ -79,24 +79,6 @@ export function TabbedNewsSection() {
                 IR 新着情報
               </TabsTrigger>
             </TabsList>
-            <div className='flex gap-4'>
-              <TabsContent value='news' className='mt-0'>
-                <Link
-                  href='#'
-                  className='text-sm text-[#4A4A4A] hover:text-[#7C7C7C] border border-[#E5E7EB] rounded-md px-4 py-1'
-                >
-                  More Topics
-                </Link>
-              </TabsContent>
-              <TabsContent value='ir' className='mt-0'>
-                <Link
-                  href='#'
-                  className='text-sm text-[#4A4A4A] hover:text-[#7C7C7C] border border-[#E5E7EB] rounded-md px-4 py-1'
-                >
-                  More Topics
-                </Link>
-              </TabsContent>
-            </div>
           </div>
 
           <TabsContent value='news' className='mt-0'>
